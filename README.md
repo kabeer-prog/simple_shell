@@ -6,6 +6,8 @@
 
 Eloghosa and Kabeer's Shell is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX Africa Software Engineering.
 
+![image](https://user-images.githubusercontent.com/77249754/169669712-abd9fe98-beb4-4ba8-879a-4ea4888dea68.png)
+
 ### Installation
 
 Clone this repository into your working directory. For best results, files should be compiled with GCC and the following flags: -Wall -Wextra -Werror -pedantic -std=gnu89
